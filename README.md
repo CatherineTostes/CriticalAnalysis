@@ -23,7 +23,7 @@ Para mostrar a distribuição da proporção com que as proteínas de fungos fil
 Abaixo temos a representação de genes homólogos fúngicos:
 
 <img src="https://raw.githubusercontent.com/CatherineTostes/PreviewAnalysis/master/graph.png" style="max-width:100%;">
-Fonte: Representação gráfica retirada do artigo - [_Acesse Aqui_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000423)
+Fonte: Representação gráfica retirada do artigo - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000423
 
 ## Análise Crítica
 
@@ -50,7 +50,7 @@ Sugestão de Visualização
 
 Através da análise usando o framework, foi proposta a representação visual abaixo:
 
-<img src="https://raw.githubusercontent.com/CatherineTostes/PreviewAnalysis/master/Pneumocystis_carinii.jpg" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/CatherineTostes/PreviewAnalysis/master/graph_d3.png" style="max-width:100%;">
 
 ## Conclusão
 
