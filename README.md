@@ -1,5 +1,7 @@
 # Análise Crítica - Visualização de Genes Homólogos Fúngicos do Transcriptoma Pneumocystis Carinii
 
+Código no Observable: https://observablehq.com/@catherinetostes/analise-critica-visualizacao-de-genes-homologos-fungicos
+
 Neste relatório será realizado uma análise crítica sobre uma visualização presente em um artigo onde é detalhado sobre o Transcriptoma de Pneumocystis carinii durante uma infecção fulminante e o metabolismo dos carboidratos e a compatibilidade com parasitas.
 
 ***Artigo:*** [_Transcriptome of Pneumocystis carinii during Fulminate Infection: Carbohydrate Metabolism and the Concept of a Compatible Parasite_](https://www.researchgate.net/publication/215629727_Transcriptome_of_Pneumocystis_carinii_during_Fulminate_Infection_Carbohydrate_Metabolism_and_the_Concept_of_a_Compatible_Parasite).
